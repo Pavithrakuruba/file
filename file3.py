@@ -1,0 +1,11 @@
+my_file=open("pepal.test","w")
+my_file.write("i love my india")
+my_file.write("n\i love my navgurukul")
+my_file.close()
+my_file=open("pepal.test","a")
+my_file.write("n\i love my mom")
+my_file.close()
+my_file=open("n\ i love my famile")
+list1=["w","d","w"]
+my_file.writline(list)
+my_file.close()
